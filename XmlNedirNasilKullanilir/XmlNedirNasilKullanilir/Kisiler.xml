@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<kisiler><!--Root Element-->
+	<kisi id="1"><!--kisi = Element, id = "Attribute"-->
+		<adi>Murtaza</adi>
+		<soyadi>Şuayipoğlu</soyadi>
+	</kisi>
+	<kisi id="2">
+		<adi>Şehmuz</adi>
+		<soyadi>Şuayipoğlu</soyadi>
+	</kisi>
+</kisiler>

@@ -1,0 +1,7 @@
+C:\Users\burak\source\repos\XmlNedirNasilKullanilir\XmlNedirNasilKullanilir\bin\Debug\XmlNedirNasilKullanilir.exe.config
+C:\Users\burak\source\repos\XmlNedirNasilKullanilir\XmlNedirNasilKullanilir\bin\Debug\XmlNedirNasilKullanilir.exe
+C:\Users\burak\source\repos\XmlNedirNasilKullanilir\XmlNedirNasilKullanilir\bin\Debug\XmlNedirNasilKullanilir.pdb
+C:\Users\burak\source\repos\XmlNedirNasilKullanilir\XmlNedirNasilKullanilir\obj\Debug\XmlNedirNasilKullanilir.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\XmlNedirNasilKullanilir\XmlNedirNasilKullanilir\obj\Debug\XmlNedirNasilKullanilir.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\XmlNedirNasilKullanilir\XmlNedirNasilKullanilir\obj\Debug\XmlNedirNasilKullanilir.exe
+C:\Users\burak\source\repos\XmlNedirNasilKullanilir\XmlNedirNasilKullanilir\obj\Debug\XmlNedirNasilKullanilir.pdb
