@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\burak\\Documents\\GitHub\\XmlNedirNasilKullanilir\\XmlNedirNasilKullanilir\\",
+  "WorkspaceRootPath": "C:\\Users\\burak\\Documents\\GitHub\\XmlNedirNasilKullanilir\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38BA5A99-3CF1-4331-8339-EF51DD9A533A}|XmlNedirNasilKullanilir\\XmlNedirNasilKullanilir.csproj|c:\\users\\burak\\documents\\github\\xmlnedirnasilkullanilir\\xmlnedirnasilkullanilir\\xmlnedirnasilkullanilir\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38BA5A99-3CF1-4331-8339-EF51DD9A533A}|XmlNedirNasilKullanilir\\XmlNedirNasilKullanilir.csproj|c:\\users\\burak\\documents\\github\\xmlnedirnasilkullanilir\\xmlnedirnasilkullanilir\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38BA5A99-3CF1-4331-8339-EF51DD9A533A}|XmlNedirNasilKullanilir\\XmlNedirNasilKullanilir.csproj|solutionrelative:xmlnedirnasilkullanilir\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38BA5A99-3CF1-4331-8339-EF51DD9A533A}|XmlNedirNasilKullanilir\\XmlNedirNasilKullanilir.csproj|C:\\Users\\burak\\Documents\\GitHub\\XmlNedirNasilKullanilir\\XmlNedirNasilKullanilir\\xmlnedirnasilkullanilir\\kisiler.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{38BA5A99-3CF1-4331-8339-EF51DD9A533A}|XmlNedirNasilKullanilir\\XmlNedirNasilKullanilir.csproj|C:\\Users\\burak\\Documents\\GitHub\\XmlNedirNasilKullanilir\\xmlnedirnasilkullanilir\\kisiler.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{38BA5A99-3CF1-4331-8339-EF51DD9A533A}|XmlNedirNasilKullanilir\\XmlNedirNasilKullanilir.csproj|solutionrelative:xmlnedirnasilkullanilir\\kisiler.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Kisiler.xml",
-              "DocumentMoniker": "C:\\Users\\burak\\Documents\\GitHub\\XmlNedirNasilKullanilir\\XmlNedirNasilKullanilir\\XmlNedirNasilKullanilir\\Kisiler.xml",
+              "DocumentMoniker": "C:\\Users\\burak\\Documents\\GitHub\\XmlNedirNasilKullanilir\\XmlNedirNasilKullanilir\\Kisiler.xml",
               "RelativeDocumentMoniker": "XmlNedirNasilKullanilir\\Kisiler.xml",
-              "ToolTip": "C:\\Users\\burak\\Documents\\GitHub\\XmlNedirNasilKullanilir\\XmlNedirNasilKullanilir\\XmlNedirNasilKullanilir\\Kisiler.xml",
+              "ToolTip": "C:\\Users\\burak\\Documents\\GitHub\\XmlNedirNasilKullanilir\\XmlNedirNasilKullanilir\\Kisiler.xml",
               "RelativeToolTip": "XmlNedirNasilKullanilir\\Kisiler.xml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
               "WhenOpened": "2024-12-21T13:35:13.502Z"
             },
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\burak\\Documents\\GitHub\\XmlNedirNasilKullanilir\\XmlNedirNasilKullanilir\\XmlNedirNasilKullanilir\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\Documents\\GitHub\\XmlNedirNasilKullanilir\\XmlNedirNasilKullanilir\\Program.cs",
               "RelativeDocumentMoniker": "XmlNedirNasilKullanilir\\Program.cs",
-              "ToolTip": "C:\\Users\\burak\\Documents\\GitHub\\XmlNedirNasilKullanilir\\XmlNedirNasilKullanilir\\XmlNedirNasilKullanilir\\Program.cs",
+              "ToolTip": "C:\\Users\\burak\\Documents\\GitHub\\XmlNedirNasilKullanilir\\XmlNedirNasilKullanilir\\Program.cs",
               "RelativeToolTip": "XmlNedirNasilKullanilir\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAMAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAYwI8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-21T13:19:47.866Z",
               "EditorCaption": ""

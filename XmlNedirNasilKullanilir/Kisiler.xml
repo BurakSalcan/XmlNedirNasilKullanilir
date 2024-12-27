@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<kisiler>
+  <!--Root Element-->
+  <kisi id="1">
+    <!--kisi = Element, id = "Attribute"-->
+    <adi>Murtaza</adi>
+    <soyadi>Şuayipoğlu</soyadi>
+  </kisi>
+  <kisi id="3">
+    <adi>Burak</adi>
+    <soyadi>Salcan</soyadi>
+  </kisi>
+  <kisi id="fd7cac8d-5fae-4893-b57d-8ebda1712772">
+    <adi>Randomizer Destroyer</adi>
+    <soyadi>spear God</soyadi>
+  </kisi>
+  <kisi id="4">
+    <adi>ali</adi>
+    <soyadi>veli</soyadi>
+  </kisi>
+</kisiler>
